@@ -1,0 +1,5 @@
+eval_*
+.venv
+terraform.tfstate*
+.terraform*
+*.csv
